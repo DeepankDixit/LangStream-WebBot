@@ -1,9 +1,9 @@
 streamlit==1.32.2
-langchain==0.1.6
-langchain-community==0.0.20
-langchain-core==0.1.40
+langchain-core==0.1.22
+langchain==0.1.14
+langchain_community==0.0.31
+langchain-openai==0.0.5
 langchain-experimental==0.0.50
-langchain-openai==0.1.1
 langchainhub==0.1.14
 python-dotenv==1.0.1
 chromadb==0.4.24
