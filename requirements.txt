@@ -1,9 +1,10 @@
 streamlit==1.32.2
+langchain==0.1.6
+langchain-community==0.0.31
 langchain-core
-langchain==0.1.14
-langchain_community==0.0.31
-langchain-openai==0.0.5
 langchain-experimental==0.0.50
+langchain-openai==0.1.1
 langchainhub==0.1.14
+beautifulsoup4 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bczxn9gqkq/croot/beautifulsoup4-split_1681493044307/work
 python-dotenv==1.0.1
 chromadb==0.4.24
