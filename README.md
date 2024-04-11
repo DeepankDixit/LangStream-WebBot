@@ -1,5 +1,6 @@
 # LangStream-WebBot
 A versatile chatbot designed to interact with websites, extract information, and engage users through an intuitive Streamlit-based GUI. Leveraging LangChain and compatible with advanced language models like GPT-4, it offers a seamless blend of web navigation and conversational AI.
+Access it here [LangStream WebBot URL](https://webnavigator.streamlit.app/)
 
 ## App Architecture / Logic
 <img width="1313" alt="image" src="https://github.com/DeepankDixit/LangStream-WebBot/assets/22991058/0486ee9d-96bb-4c59-8624-fdee66833f9b">
