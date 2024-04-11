@@ -5,6 +5,6 @@ langchain-core
 langchain-experimental==0.0.50
 langchain-openai==0.1.1
 langchainhub==0.1.14
-beautifulsoup4 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bczxn9gqkq/croot/beautifulsoup4-split_1681493044307/work
+beautifulsoup4
 python-dotenv==1.0.1
 chromadb==0.4.24
