@@ -1,6 +1,6 @@
 # LangStream-WebBot
 A versatile chatbot designed to interact with websites, extract information, and engage users through an intuitive Streamlit-based GUI. Leveraging LangChain and compatible with advanced language models like GPT-4, it offers a seamless blend of web navigation and conversational AI.
-Access it here [LangStream WebBot URL](https://webnavigator.streamlit.app/)
+Access it here [LangStream WebBot URL](https://webnavigator.streamlit.app/) or [URL2](https://chatwithwebsites.onrender.com/)
 
 ## App Architecture / Logic
 <img width="1313" alt="image" src="https://github.com/DeepankDixit/LangStream-WebBot/assets/22991058/0486ee9d-96bb-4c59-8624-fdee66833f9b">
@@ -17,4 +17,4 @@ Access it here [LangStream WebBot URL](https://webnavigator.streamlit.app/)
 1. Run the `app.py` file from the project directly using `streamlit run app.py`
 2. This will launch the app in your web browser.
 3. You can load multiple websites and click on Process. 
-4. Once the processing is complete, you can ask questions in natural language about the websites.
+4. Once the processing is complete, you can ask questions about the websites in natural language.
