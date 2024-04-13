@@ -11,6 +11,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 def get_vectorstore_from_url(url):
     # get the text in document form
     loader = WebBaseLoader(url)
