@@ -93,7 +93,7 @@ if website_url is None or website_url == "":
 
 else:
     # session state
-    #session state object/var doesn'y change everytime the code is reloaded due to app activity in streamlit
+    #session state object/var doesn't change everytime the code is reloaded due to app activity in streamlit
     #AIMessage and HumanMessage- std schemas offered in LangChain
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = [
@@ -108,7 +108,7 @@ else:
     user_query = st.chat_input("Type your message here...")
     if user_query is not None and user_query != "":
         response = get_response(user_query)
-        st.write(response)
+        # st.write(response)
         st.session_state.chat_history.append(HumanMessage(content=user_query))
         st.session_state.chat_history.append(AIMessage(content=response))
 
