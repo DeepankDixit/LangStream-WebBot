@@ -24,7 +24,9 @@ Access it here [LangStream WebBot URL](https://webnavigator.streamlit.app/) or [
 1. App UI
 <img width="1115" alt="image" src="https://github.com/DeepankDixit/LangStream-WebBot/assets/22991058/6af7dfb2-e7dd-47a9-85ca-25056254cce0">
 
-2. Enter the website URL with which you want to chat - [Cisco ISE 3.2 CLI Reference Guide](https://www.cisco.com/c/en/us/td/docs/security/ise/3-2/cli_guide/b_ise_CLI_Reference_Guide_32/b_ise_CLIReferenceGuide_32_chapter_01.html#wp4862170690). The bot is now activated. 
+2. Enter the website URL with which you want to chat - [Cisco ISE 3.2 CLI Reference Guide](https://www.cisco.com/c/en/us/td/docs/security/ise/3-2/cli_guide/b_ise_CLI_Reference_Guide_32/b_ise_CLIReferenceGuide_32_chapter_01.html#wp4862170690). The bot is now activated.
+
+or [Cisco Hypershield At a Glance](https://www.cisco.com/c/en/us/products/collateral/security/hypershield-aag.html)
 
 <img width="781" alt="image" src="https://github.com/DeepankDixit/LangStream-WebBot/assets/22991058/b08eda4e-6174-4121-a124-f6966c292fac">
 
